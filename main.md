@@ -15,3 +15,4 @@
 -- this was added from feature b
 **update**
 -- was a commit added by another feature-x
+-- feature c has been added
