@@ -1,0 +1,12 @@
+**main** 
+--- 
+-- ['link'][https://jsonplaceholder.typicode.com/]
+-- this is just a placeholder
+
+**page1**
+--- 
+-- This is just a sentence for page 1. 
+
+**page2** 
+--- 
+-- THis is just a sentence for page 2. 
