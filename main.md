@@ -10,3 +10,6 @@
 **page2** 
 --- 
 -- THis is just a sentence for page 2. 
+
+**page3**
+-- this was added from feature b
