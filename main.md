@@ -11,10 +11,11 @@
 --- 
 -- THis is just a sentence for page 2. 
 
-<<<<<<< HEAD
 **updates**
 -- this was added from feature b
-=======
 **update**
 -- was a commit added by another feature-x
->>>>>>> 9fd8a44 (feature-x added)
+
+
+**update**
+-- was a commit added by another feature-x
